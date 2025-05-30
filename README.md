@@ -18,6 +18,7 @@ This project focuses on detecting deepfake videos using deep learning techniques
 ```bash
 git clone https://github.com/Tanishgarg9725/Deepfake_Detection.git
 cd Deepfake_Detection
+bash```
 
 ---
 
