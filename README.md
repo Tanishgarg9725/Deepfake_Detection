@@ -34,3 +34,11 @@ Refer to animation.gif for a visual representation of the model's performance.
 | **VGG16**              | 92%      | 91%       | 93%    | 92%      |
 | **LSTM**               | 89%      | 88%       | 90%    | 89%      |
 | **Binary Classification** | 85%  | 84%       | 86%    | 85%      |
+
+---
+
+## 📚 Dataset
+
+The dataset used in this project is publicly available on Kaggle:
+
+🔗 [Deep Fake Detection (DFD) Entire Original Dataset – Kaggle](https://www.kaggle.com/datasets/sanikatiwarekar/deep-fake-detection-dfd-entire-original-dataset)
