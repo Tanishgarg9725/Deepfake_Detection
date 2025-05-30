@@ -1,0 +1,121 @@
+video_path,label
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\26_20__walking_outside_cafe_disgusted__C8GN41DU.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\22_10__outside_talking_still_laughing__J2HR5HKH.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\13__exit_phone_room.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\02__kitchen_still.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\08__walking_down_street_outside_angry.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\02__podium_speech_happy.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\14_20__walking_outside_cafe_disgusted__3HWOJRAM.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\20__secret_conversation.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\15__kitchen_still.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\13__outside_talking_still_laughing.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\21_20__walking_down_indoor_hall_disgust__ZCB5OMEW.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\11_03__exit_phone_room__P08VGHTA.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\26_20__kitchen_still__34DJQS3E.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\21_04__outside_talking_pan_laughing__HY1VWEJK.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\01_27__hugging_happy__ZYCZ30C0.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\02_13__walking_outside_cafe_disgusted__CP5HFV3K.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\06__walking_down_street_outside_angry.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\18__kitchen_pan.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\18_06__secret_conversation__DEA1TCLN.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\15__outside_talking_pan_laughing.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\03_01__walking_and_outside_surprised__JZUXXFRB.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\03_01__kitchen_pan__JZUXXFRB.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\25__exit_phone_room.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\11__outside_talking_still_laughing.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\14__walking_down_street_outside_angry.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\28__walking_outside_cafe_disgusted.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\27__podium_speech_happy.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\15_02__exit_phone_room__MZWH8ATN.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\18_14__secret_conversation__HYMNQ00Q.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\03__talking_against_wall.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\14__walk_down_hall_angry.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\02_13__talking_angry_couch__CP5HFV3K.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\14__kitchen_pan.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\27_06__talking_against_wall__S3T7SK9O.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\05__kitchen_still.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\19_24__secret_conversation__DL7X7M6I.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\07__secret_conversation.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\02__outside_talking_still_laughing.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\23__secret_conversation.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\04_12__walking_down_street_outside_angry__B6YJ9IW1.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\26_04__secret_conversation__WX836VLY.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\22_10__walking_down_indoor_hall_disgust__8YQ2EUQP.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\13_04__kitchen_pan__00T3UYOR.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\13_02__outside_talking_pan_laughing__2YSYT2N3.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\24__walking_down_street_outside_angry.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\12_13__walking_and_outside_surprised__SIA5P4HL.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\07_14__podium_speech_happy__VOX29AK0.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\24_19__walking_down_street_outside_angry__59PN7WZ2.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\02__kitchen_pan.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\28__talking_angry_couch.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\11_20__secret_conversation__B2H95QXV.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\22_23__walking_and_outside_surprised__TU7RHG0S.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\03_06__walking_down_indoor_hall_disgust__1IXGY2FK.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\12_18__walking_outside_cafe_disgusted__IKH1LBBY.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\20__walking_down_indoor_hall_disgust.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\19__walking_down_street_outside_angry.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\20__outside_talking_still_laughing.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\06__talking_against_wall.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\19_24__exit_phone_room__59PN7WZ2.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\01_20__outside_talking_pan_laughing__6UBMLXK3.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\04__talking_against_wall.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\25_12__walk_down_hall_angry__I2X1XTCC.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\22__exit_phone_room.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\06__walking_down_indoor_hall_disgust.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\24__walk_down_hall_angry.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\21_07__kitchen_still__MKU99DVX.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\02__secret_conversation.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\03_07__outside_talking_pan_laughing__IFSURI9X.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\26__outside_talking_still_laughing.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\04__talking_angry_couch.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\01__secret_conversation.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\21_15__hugging_happy__87WSBJP3.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\18_14__exit_phone_room__6SB2BR0A.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\23__walking_outside_cafe_disgusted.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\20_27__walking_and_outside_surprised__LM907ECA.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\04__secret_conversation.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\06_02__talking_against_wall__GH8TGTBS.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\22__walking_down_street_outside_angry.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\27__outside_talking_pan_laughing.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\06_18__talking_angry_couch__DEA1TCLN.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\06_18__kitchen_pan__XJ76YU5A.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\26__secret_conversation.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\09_01__outside_talking_still_laughing__SJZRV69J.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\14_02__podium_speech_happy__3IUBEKCT.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\06_27__talking_against_wall__S3T7SK9O.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\12_07__outside_talking_still_laughing__0VN0A2T3.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\14__talking_against_wall.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\03_07__meeting_serious__W3MXGEU9.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\11_20__kitchen_still__GNK9UR8K.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\08__kitchen_still.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\01__walking_and_outside_surprised.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\25__podium_speech_happy.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\13_14__walking_outside_cafe_disgusted__KMQ3AW6A.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\09__exit_phone_room.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\01__podium_speech_happy.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\06__exit_phone_room.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\06_02__podium_speech_happy__N8OSN8P6.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\17__walking_down_indoor_hall_disgust.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\13_03__exit_phone_room__GBYWJW06.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\22_23__outside_talking_pan_laughing__TU7RHG0S.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\02__walking_down_indoor_hall_disgust.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\03_15__outside_talking_still_laughing__DNUJD8M2.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\04_01__exit_phone_room__0XUW13RW.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\27__outside_talking_still_laughing.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\21_14__walking_down_street_outside_angry__N0WM4GSV.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\07_25__hugging_happy__IKMKYKPG.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\09__walk_down_hall_angry.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\17__hugging_happy.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\15_02__talking_against_wall__TN2CWM3K.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\13_20__secret_conversation__4RU7I77X.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\08__talking_against_wall.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\13__walking_outside_cafe_disgusted.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\02_07__walking_and_outside_surprised__1VMZUH1W.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\12_07__talking_against_wall__0VN0A2T3.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\12__talking_against_wall.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\18_06__walking_down_street_outside_angry__MVXBDKGB.mp4,fake
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\03__kitchen_still.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\28__exit_phone_room.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_original sequences\12__talking_angry_couch.mp4,real
+C:\Users\Tanish Garg\.cache\kagglehub\datasets\sanikatiwarekar\deep-fake-detection-dfd-entire-original-dataset\DFD_manipulated_sequences\03_06__meeting_serious__1IXGY2FK.mp4,fake
