@@ -12,16 +12,6 @@ This project focuses on detecting deepfake videos using deep learning techniques
 
 ---
 
-## 🛠️ Installation  
-
-1. **Clone the repository:**  
-```bash
-git clone https://github.com/Tanishgarg9725/Deepfake_Detection.git
-cd Deepfake_Detection
-bash```
-
----
-
 ## 🚀 Usage
 
 **Prepare the dataset:**
@@ -35,3 +25,12 @@ Execute the cells sequentially to train and evaluate the model.
 **Visualize results:**
 Refer to animation.gif for a visual representation of the model's performance.
 
+---
+
+## 📊 Results
+
+| Model                  | Accuracy | Precision | Recall | F1-Score |
+|------------------------|----------|-----------|--------|----------|
+| **VGG16**              | 92%      | 91%       | 93%    | 92%      |
+| **LSTM**               | 89%      | 88%       | 90%    | 89%      |
+| **Binary Classification** | 85%  | 84%       | 86%    | 85%      |
